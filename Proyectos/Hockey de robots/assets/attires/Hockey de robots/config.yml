@@ -1,0 +1,50 @@
+name: Hockey de robots
+rules:
+  - image: Fondo.png
+    when:
+      black: 0
+      blue: 0
+      green: 0
+      red: 0
+  - image: RobotConPalo.png
+    when:
+      black: 0
+      blue: 1
+      green: 0
+      red: 0
+  - image: RobotMoviendoPaloSolo.png
+    when:
+      black: 0
+      blue: 2
+      green: 0
+      red: 0
+  - image: Pelota.png
+    when:
+      black: 1
+      blue: 0
+      green: 0
+      red: 0
+  - image: ArcoSolo.png
+    when:
+      black: 0
+      blue: 0
+      green: 0
+      red: 1
+  - image: RobotConPelota.png
+    when:
+      black: 1
+      blue: 1
+      green: 0
+      red: 0
+  - image: RobotMoviendoPaloConPelota.png
+    when:
+      black: 1
+      blue: 2
+      green: 0
+      red: 0
+  - image: ArcoConPelota.png
+    when:
+      black: 1
+      blue: 0
+      green: 0
+      red: 1
