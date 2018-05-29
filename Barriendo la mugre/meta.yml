@@ -1,0 +1,39 @@
+library:
+  visible: false
+source:
+  visible: true
+  percentage: 0.6
+board:
+  visible_edition: true
+  collapse_toolbox: false
+  user_permissions:
+    can_edit_board: false
+    can_view_size_section: true
+    can_view_attire_section: true
+  active: 1
+  initial_board_source: selected
+execution_speed:
+  user_permissions:
+    can_change_speed: true
+  active: high
+attire:
+  visible: false
+  user_permissions:
+    can_toggle_visibility: true
+  active: Fútbol de robots
+blocks:
+  disabled:
+    - IrAlBorde
+    - Procedimientos primitivos
+  visible:
+    - Poner
+    - Mover
+    - Sacar
+    - IrAlBorde
+    - Procedimientos primitivos
+    - Mis procedimientos
+    - Color
+    - Direccion
+    - procedures_defnoreturnnoparams
+    - Definicion de procedimientos simples
+name: Preparando el fútbol de robots
