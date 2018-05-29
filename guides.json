@@ -1,19 +1,23 @@
-[
-  { "name": "Actividades", "repo": "gobstones/proyectos-jr"
-  , "exercises": 
-    [ { "id": "1.1", "name": "El alien toca botón"
-      , "path": "Proyectos/Cap.3/3.2.1.El alien toca botón"
-      }
-    , { "id": "1.2", "name": "Preparando el fútbol de robots"
-      , "path": "Proyectos/Cap.3/3.2.2.1.Preparando el fútbol de robots"
-      }
-    ]
-  },
-  { "name": "Ejemplos", "repo": "gobstones/taller-jadipro"
-  , "exercises":
-    [ { "id": "1", "name": "Barriendo la mugre"
-      , "path": "Proyectos/Barriendo la mugre"
-      }
-    ]
-  }
+[{
+		"name": "Actividades",
+		"repo": "gobstones/proyectos-jr",
+		"exercises": [{
+			"id": "1.1",
+			"name": "El alien toca botón",
+			"path": "Proyectos/Cap.3/3.2.1.El alien toca botón"
+		}, {
+			"id": "1.2",
+			"name": "Preparando el fútbol de robots",
+			"path": "Proyectos/Cap.3/3.2.2.1.Preparando el fútbol de robots"
+		}]
+	},
+	{
+		"name": "Ejemplos",
+		"repo": "gobstones/taller-jadipro",
+		"exercises": [{
+			"id": "1",
+			"name": "Barriendo la mugre",
+			"path": "Proyectos/Barriendo la mugre"
+		}]
+	}
 ]
