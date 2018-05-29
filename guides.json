@@ -18,6 +18,14 @@
 			"id": "1",
 			"name": "Barriendo la mugre",
 			"path": "Proyectos/Barriendo la mugre"
+		}, {
+			"id": "2",
+			"name": "Hockey de robots",
+			"path": "Proyectos/Hockey de robots"
+		}, {
+			"id": "3",
+			"name": "Armando jardines",
+			"path": "Proyectos/Armando jardines"
 		}]
 	}
 ]
