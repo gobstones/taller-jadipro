@@ -1,0 +1,50 @@
+name: Sirviendo la comida
+rules:
+  - image: fondo.png
+    when:
+      black: 0
+      blue: 0
+      green: 0
+      red: 0
+  - image: mozoSolo.png
+    when:
+      black: 0
+      blue: 1
+      green: 0
+      red: 0
+  - image: llevandoComida.png
+    when:
+      black: 0
+      blue: 2
+      green: 0
+      red: 0
+  - image: comida.png
+    when:
+      black: 1
+      blue: 0
+      green: 0
+      red: 0
+  - image: mesaSola.png
+    when:
+      black: 0
+      blue: 0
+      green: 0
+      red: 1
+  - image: llevandoComida.png
+    when:
+      black: 1
+      blue: 1
+      green: 0
+      red: 0
+  - image: llevandoComida.png
+    when:
+      black: 1
+      blue: 2
+      green: 0
+      red: 0
+  - image: mesaConComida.png
+    when:
+      black: 1
+      blue: 0
+      green: 0
+      red: 1
