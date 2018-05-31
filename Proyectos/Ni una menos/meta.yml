@@ -1,0 +1,27 @@
+library:
+  visible: true
+source:
+  visible: true
+  percentage: 0.6
+board:
+  visible_edition: true
+  collapse_toolbox: false
+  user_permissions:
+    can_change_initial_board: true
+    can_change_initial_board_source: true
+    can_edit_board: true
+    can_view_size_section: true
+    can_view_attire_section: true
+  active: 2
+  initial_board_source: selected
+execution_speed:
+  user_permissions:
+    can_change_speed: true
+  active: medium
+attire:
+  visible: true
+  user_permissions:
+    can_toggle_visibility: true
+  active: NiUnaMenos
+blocks: null
+name: NiUnaMenos

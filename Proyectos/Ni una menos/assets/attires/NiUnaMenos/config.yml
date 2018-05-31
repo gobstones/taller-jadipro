@@ -1,0 +1,50 @@
+name: NiUnaMenos
+rules:
+  - image: Fondo.png
+    when:
+      black: 0
+      blue: 0
+      green: 0
+      red: 0
+  - image: AgresorParado.png
+    when:
+      black: 0
+      blue: 1
+      green: 0
+      red: 0
+  - image: AgresorCaminando.png
+    when:
+      black: 0
+      blue: 2
+      green: 0
+      red: 0
+  - image: Mujer.png
+    when:
+      black: 1
+      blue: 0
+      green: 0
+      red: 0
+  - image: Grupo.png
+    when:
+      black: 0
+      blue: 0
+      green: 0
+      red: 1
+  - image: AgresorYMujer.png
+    when:
+      black: 1
+      blue: 1
+      green: 0
+      red: 0
+  - image: AgresorAcosandoMujer.png
+    when:
+      black: 1
+      blue: 2
+      green: 0
+      red: 0
+  - image: MujerYGrupo.png
+    when:
+      black: 1
+      blue: 0
+      green: 0
+      red: 1
